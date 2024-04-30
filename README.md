@@ -1,30 +1,14 @@
-# Data Analysis Using Power BI
+Power bi Projects
+
+**Trend AND fORECASTING**
+![Screenshot (1074)](https://github.com/gradan-hash/powerBI/assets/80700768/d176459a-7197-4333-912f-d3d137c8d5df)
 
 
-
-This repository contains a small data analysis project carried out using Power BI. The project focuses on [brief description of the analysis topic and goals].
-
-
-## Introduction
-
-Provide a brief overview of the analysis, its purpose, and the insights you aim to gain from the data.
-
-## Data Source
-
-data source is provided:::
+**Sales Analysis**
+![Screenshot (1075)](https://github.com/gradan-hash/powerBI/assets/80700768/ca151de7-bc43-4e6f-954e-64a5f5897a51)
 
 
+**TREND AND FORECASTING**
+![Screenshot (1075)](https://github.com/gradan-hash/powerBI/assets/80700768/80136ffe-4c9e-4c11-b22b-781c98e7b3eb)
 
-## Getting Started
-
-If you want to explore the project or view the visualizations, follow these steps:
-
-1. [Install Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/) if you haven't already.
-2. Clone or download this repository to your local machine.
-3. Open the `.pbix` file using Power BI Desktop to interact with the visualizations.
-
-
-## Acknowledgments
-
-Give credit to any sources, tutorials, or references that helped you with the analysis.
 
